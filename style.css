@@ -1,0 +1,25 @@
+*{
+    background-color: blueviolet;
+    box-sizing: border-box;
+}
+.watch{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 2px solid black;
+    width: 100%;
+    max-width: 360px;
+    margin: auto;
+    padding: 10px;
+
+}
+.time{
+    font-size: 5rem;
+    margin-bottom: 5px;
+
+}
+.controls button{
+    background-color: red;
+    color:aliceblue;
+}
